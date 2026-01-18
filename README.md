@@ -17,7 +17,8 @@ Folder source code Android (asumsinya).
 📁 **File Asset Desain UI**
 
 💾 **Preview UI & Wireframe – Sassy's Caffee**
-👇 ![Ui and wireframe - CoffeeShop](https://www.figma.com/design/utajA4TXkv4Fqh4vxbMo7j/Project-1?node-id=0-1&t=wioocAXWJKj5zDcM-1)
+👇 ![Ui and wireframe - CoffeeShop]
+(https://www.figma.com/design/utajA4TXkv4Fqh4vxbMo7j/Project-1?node-id=0-1&t=wioocAXWJKj5zDcM-1)
 
 
 📌 Rangkaian Asset & Dokumentasi Proyek
